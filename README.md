@@ -1,4 +1,4 @@
 # addmisstionForm
-This is addmisstion form <br>
+This is admission form <br>
 Author - Aman saini <br>
 Company name - Aman saini <br>
